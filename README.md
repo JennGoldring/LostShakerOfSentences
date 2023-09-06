@@ -18,5 +18,5 @@ Navigate to the directory:
 Run the script:
 
 # Attribution:
-Jimmy Buffet — Margaritaville, Son of A Sailor, & Come Monday
+Jimmy Buffet — Margaritaville, Son of A Sailor, Come Monday, & The Oldest Surfer On the Beach
 Feel free to provide feedback or contribute to the script's enhancement.

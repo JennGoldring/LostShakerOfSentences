@@ -28,7 +28,7 @@ while True:
     # Ask the user if they want to run again
     run_again = input("Do you want another round of sentence margarita? (yes/no): ").lower().strip()
 
-    if run_again != "yes":
+    if run_again not in ["yes", "y"]:
         print("Cheers! Until next time.")
         break
 
